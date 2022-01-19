@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ninja Koncept</string>
+
+    <!-- menu -->
+    <string name="actualite">Actualité</string>
+    <string name="horaires">Horaires</string>
+    <string name="resa">Réservation</string>
+    <string name="tchat">Tchat</string>
+    <string name="photo">photo</string>
+
+</resources>
